@@ -1,5 +1,4 @@
 body{
-    text-align: center;
     background-color: rgb(152,0, 54);
     color: #1a1110; 
     margin-top: 0px;
@@ -7,9 +6,11 @@ body{
     margin-bottom: 0px;
     margin-left: 0px;
     font-size: 16px;
+    text-align: center;
 }
 h3{
     font-family: 'Indie Flower', cursive;    
+    text-align: center;
 }
 header{
     background:url('https://lh3.googleusercontent.com/Qg9HZHGnan-Dn_kQF872qYL2bEKqbAhDq5A54yzlQk9kyzk0Uc_gsESnx_f0KXY28p5EHLpb34hPUefchs58Blpe3Tdk6OinSwfKoY8c0YQiazXAhUWWxZdiV36VvoYGDx0EJE-ZkByIlmBrHb2ffb0Dw529bBG9zuTNzc3Yu5bnFzTHSXs-rYJVE7JmgxWvEU_Br_kZIyHH320FYBfQwYPLBibRniD90OfwKxQlqNXCLUTaEKSo0Sptnrd5VNq4dOBxwO0ZivOkl7rAw5p5rgZQEJG-Njub1Q2IQDah3QLGhei8ROImW4RkzCv03pCZFVmJjLToo4RNm8yHMm4evHc0-mtzzDKUCHwdFsvX-IKx-wtG1HedoBsNIbapIDiMvuGCNWB9prHZVNmM7a7erYeMNxKXJtiYEAU1IH6FxxtHasGm61D9AbN7-DG_OqvRRpZocoWM39w8Sxpcyy884BPmxoje9qFvN8UrzScaJ_goVgpYVZ-pQ-MGMQOzwKsQcn73a4PDSFNJ4GWsMFJl2Cco6zwxp7QOjZZzMxNEniRdTDmVDgFY38G_F7seMskO=w989-h849');
